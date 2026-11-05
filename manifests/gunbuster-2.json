@@ -1,0 +1,34 @@
+{
+ "wid": "gunbuster-2",
+ "anilistId": 1002,
+ "name": "Gunbuster 2",
+ "totalEpisodes": 6,
+ "repo": "adiytharpansa/x02at794fkh9",
+ "pin": "f2807e6191be309fc369479d840d3487fd6849c9",
+ "subs": {
+  "1": [
+   "en",
+   "id"
+  ],
+  "2": [
+   "en",
+   "id"
+  ],
+  "3": [
+   "en",
+   "id"
+  ],
+  "4": [
+   "en",
+   "id"
+  ],
+  "5": [
+   "en",
+   "id"
+  ],
+  "6": [
+   "en",
+   "id"
+  ]
+ }
+}
